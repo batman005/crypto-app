@@ -1,5 +1,6 @@
+![cryptonext](https://user-images.githubusercontent.com/51878340/125192603-55441980-e266-11eb-84a0-7e62253cec4e.JPG)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+It is an crypto tracker
 ## Getting Started
 
 First, run the development server:
